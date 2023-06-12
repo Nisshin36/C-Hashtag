@@ -1,0 +1,21 @@
+I:\C# Programming\Chapter 8\Movie\Movie\bin\Debug\Movie.exe.config
+I:\C# Programming\Chapter 8\Movie\Movie\bin\Debug\Movie.exe
+I:\C# Programming\Chapter 8\Movie\Movie\bin\Debug\Movie.pdb
+I:\C# Programming\Chapter 8\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
+I:\C# Programming\Chapter 8\Movie\Movie\obj\Debug\Movie.exe
+I:\C# Programming\Chapter 8\Movie\Movie\obj\Debug\Movie.pdb
+I:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\bin\Debug\Movie.exe.config
+I:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\obj\Debug\Movie.exe
+I:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\obj\Debug\Movie.pdb
+E:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\bin\Debug\Movie.exe.config
+E:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\obj\Debug\Movie.exe
+E:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\obj\Debug\Movie.pdb
+E:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\bin\Debug\Movie.exe
+E:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\bin\Debug\Movie.pdb
+E:\C# Programming\Chapter 8\Exercise 10     Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 8\Exercise 10     Movie\Movie\bin\Debug\Movie.exe.config
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 8\Exercise 10     Movie\Movie\obj\Debug\Movie.exe
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 8\Exercise 10     Movie\Movie\obj\Debug\Movie.pdb
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 8\Exercise 10     Movie\Movie\bin\Debug\Movie.exe
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 8\Exercise 10     Movie\Movie\bin\Debug\Movie.pdb
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 8\Exercise 10     Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
