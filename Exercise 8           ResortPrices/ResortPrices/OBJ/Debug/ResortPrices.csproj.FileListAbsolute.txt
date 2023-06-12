@@ -1,0 +1,15 @@
+I:\C# Programming\Chapter 6\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe.config
+I:\C# Programming\Chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.csprojResolveAssemblyReference.cache
+I:\C# Programming\Chapter 6\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe
+I:\C# Programming\Chapter 6\ResortPrices\ResortPrices\bin\Debug\ResortPrices.pdb
+I:\C# Programming\Chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.exe
+I:\C# Programming\Chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.pdb
+D:\C# Programming\Chapter 6\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe.config
+D:\C# Programming\Chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.exe
+D:\C# Programming\Chapter 6\ResortPrices\ResortPrices\obj\Debug\ResortPrices.pdb
+E:\C# Programming\Chapter 6\Exercise 8           ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe.config
+E:\C# Programming\Chapter 6\Exercise 8           ResortPrices\ResortPrices\obj\Debug\ResortPrices.exe
+E:\C# Programming\Chapter 6\Exercise 8           ResortPrices\ResortPrices\obj\Debug\ResortPrices.pdb
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 6\Exercise 8           ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe.config
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 6\Exercise 8           ResortPrices\ResortPrices\obj\Debug\ResortPrices.exe
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 6\Exercise 8           ResortPrices\ResortPrices\obj\Debug\ResortPrices.pdb
