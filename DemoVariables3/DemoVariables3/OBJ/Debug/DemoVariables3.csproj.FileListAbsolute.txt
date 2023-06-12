@@ -1,0 +1,18 @@
+F:\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\DemoVariables3.exe.config
+F:\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\DemoVariables3.exe
+F:\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\DemoVariables3.pdb
+F:\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\obj\Debug\DemoVariables3.csprojResolveAssemblyReference.cache
+F:\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\obj\Debug\DemoVariables3.exe
+F:\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\obj\Debug\DemoVariables3.pdb
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\DemoVariables3.exe.config
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\obj\Debug\DemoVariables3.exe
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\obj\Debug\DemoVariables3.pdb
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\DemoVariables3.exe
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\DemoVariables3.pdb
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\mscorlib.dll
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\normidna.nlp
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\normnfc.nlp
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\normnfd.nlp
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\normnfkc.nlp
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\bin\Debug\normnfkd.nlp
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 2\DemoVariables3\DemoVariables3\obj\Debug\DemoVariables3.csprojResolveAssemblyReference.cache

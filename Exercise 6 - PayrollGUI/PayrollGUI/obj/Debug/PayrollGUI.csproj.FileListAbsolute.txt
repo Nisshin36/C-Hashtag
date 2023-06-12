@@ -1,0 +1,3 @@
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 3\Exercise 6 - PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 3\Exercise 6 - PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.Form1.resources
+C:\Users\Defau\Documents\Academics\Western Heights and Francis Tuttle\11th Grade\C# Programming\Chapter 3\Exercise 6 - PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.Cache
